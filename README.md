@@ -1,0 +1,1 @@
+Redirects for [TI Revive](https://github.com/derpsn/ti-revive): its website moved from derpsn.github.io/access-virus-ti-revive/ to https://derpsn.github.io/ti-revive/ when the repository was renamed (2026-11-19). Every old address forwards to the same page under the new one.
